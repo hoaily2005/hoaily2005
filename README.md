@@ -1,5 +1,5 @@
 # 💫 About Me:
-I've been learning to code for 1 years. I started with HTML, but have really found a passion for backend and framework development...<br><br>🌍  I'm based in Buon Ma Thuot, Viet Nam<br>✉️  You can contact me at lyxuanhoai18@gmaill.com<br>🧠  I'm learning VueJs, Laravel,...
+I've been learning to code for 2 years. I started with HTML, but have really found a passion for Backend development...<br><br>🌍  I'm based in Buon Ma Thuot, Viet Nam<br>✉️  You can contact me at lyxuanhoai18@gmaill.com<br>🧠  I'm learning VueJs, Laravel,...
 
 
 ## 🌐 Socials:
